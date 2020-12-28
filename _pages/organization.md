@@ -17,6 +17,12 @@ permalink: /organization
 - Yuji Matsumoto
 - Kenji Sagae
 
+### Shared Task Organizers
+
+- Gosse Bouma
+- Djamé Seddah
+- Daniel Zeman
+
 ### Program Committee
 
 Coming soon
