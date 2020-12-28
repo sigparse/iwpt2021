@@ -6,23 +6,23 @@ sitemap: false
 permalink: /cfp
 ---
 
-### IWPT 2021: The 17th International Conference on Parsing Technologies
+## IWPT 2021: The 17th International Conference on Parsing Technologies
 August 5 or 6, 2021, at ACL 2021
 
 <http://iwpt2021.sigparse.org>
 
 
-### CALL FOR PAPERS
+## CALL FOR PAPERS
 
 The ACL Special Interest Group on Natural Language Parsing (SIGPARSE) invites submissions to its biennial conference on parsing technologies. IWPT 2021 will be the 17th conference in a series that started in 1989. The conference will be held as a co-located ACL event on August 5 or 6, 2021.
 
 
-#### INVITED SPEAKER
+### INVITED SPEAKER
 
 Emily Pitler, Google AI
 
 
-#### TOPICS
+### TOPICS
 
 IWPT addresses all aspects of structural analysis of natural language,
 including but not limited to:
@@ -46,7 +46,7 @@ including but not limited to:
 + Integration of morphology via character-based models, subword embeddings, and beyond
 
 
-#### IWPT 2021 SHARED TASK
+### IWPT 2021 SHARED TASK
 
 Continuing the series of parsing-oriented shared tasks established at IWPT 2020, the 2021 IWPT Shared Task will be on Multilingual Parsing into Enhanced Universal Dependendies.
 
@@ -54,7 +54,7 @@ Additional details about the IWPT 2021 shared task will be posted here:
 <https://iwpt2021.sigparse.org/sharedtask>
 
 
-#### IMPORTANT DATES
+### IMPORTANT DATES
 
 Submission deadline: April 26, 2021
 Notification of acceptance: May 28, 2021
@@ -62,13 +62,13 @@ Camera-ready versions due: June 7, 2021
 Conference: August 5 or 6, 2021
 
 
-#### SUBMISSIONS
+### SUBMISSIONS
 
 Submission information will be posted here:  
 <https://iwpt2021.sigparse.org/submission>
 
 
-#### SUBMISSION FORMAT
+### SUBMISSION FORMAT
 
 All submissions must follow the ACL 2021 guidelines. Style templates for LaTeX and Microsoft Word are available at the following web site:  
 <https://2021.aclweb.org/calls/papers/#submissions>
@@ -78,7 +78,7 @@ Submissions must be anonymous, i.e. not reveal author(s) on the title page or th
 The page limits for submissions are: up to nine pages of content for regular papers, and up to four pages of content for short papers; any additional number of pages can be used for bibliographic references.
 
 
-#### ORGANIZERS
+### ORGANIZERS
 
 - Stephan Oepen
 - Reut Tsarfaty
@@ -87,7 +87,7 @@ The page limits for submissions are: up to nine pages of content for regular pap
 - Yuji Matsumoto
 - Kenji Sagae
 
-#### SHARED TASK ORGANIZERS
+### SHARED TASK ORGANIZERS
 
 - Gosse Bouma
 - Djamé Seddah
