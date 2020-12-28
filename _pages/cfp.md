@@ -9,7 +9,7 @@ permalink: /cfp
 ### IWPT 2021: The 17th International Conference on Parsing Technologies
 August 5 or 6, 2021, at ACL 2021
 
-<http://iwpt2021.sigparse.org>
+<https://www.sigparse.org/iwpt2021>
 
 &nbsp;
 
