@@ -6,9 +6,10 @@ sitemap: false
 permalink: /submissions
 ---
 
-### Submission Link
+### Paper Submissions
 
-Coming soon
+IWPT 2021 welcomes electronic submissions (as PDF files) through the following submission page:
+<https://www.softconf.com/acl2021/w23_IWPT>
 
 ### Submission Format
 
@@ -18,6 +19,8 @@ https://2021.aclweb.org/calls/papers/#submissions
 Submissions must be anonymous, i.e. not reveal author(s) on the title page or through self-references. Paper submissions that violate this requirement will be rejected without review.
 
 The page limits for submissions are: up to nine pages of content for regular papers, and up to four pages of content for short papers; any additional number of pages can be used for bibliographic references.
+
+For more information, please see the [call for papers](/iwpt2021/cfp).
 
 &nbsp; 
 
