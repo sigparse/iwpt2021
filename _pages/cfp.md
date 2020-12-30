@@ -66,8 +66,8 @@ Conference: August 5 or 6, 2021
 
 ### SUBMISSIONS
 
-Submission information will be posted here:  
-<https://iwpt2021.sigparse.org/submission>
+Papers must be submitted through the following page:
+<https://www.softconf.com/acl2021/w23_IWPT>
 
 
 ### SUBMISSION FORMAT
