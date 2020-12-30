@@ -8,7 +8,7 @@ permalink: /submissions
 
 ### Paper Submissions
 
-IWPT 2021 welcomes electronic submissions (as PDF files) through the following submission page:
+IWPT 2021 welcomes electronic submissions (as PDF files) through the following submission page:  
 <https://www.softconf.com/acl2021/w23_IWPT>
 
 ### Submission Format
