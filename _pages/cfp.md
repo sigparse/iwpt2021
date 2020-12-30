@@ -66,7 +66,7 @@ Conference: August 5 or 6, 2021
 
 ### SUBMISSIONS
 
-Papers must be submitted through the following page:
+Papers must be submitted through the following page:  
 <https://www.softconf.com/acl2021/w23_IWPT>
 
 
