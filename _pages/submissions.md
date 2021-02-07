@@ -20,7 +20,7 @@ Submissions must be anonymous, i.e. not reveal author(s) on the title page or th
 
 The page limits for submissions are: up to nine pages of content for regular papers, and up to four pages of content for short papers; any additional number of pages can be used for bibliographic references.
 
-For more information, please see the [call for papers](/iwpt2021/cfp).
+For more information, please see the [call for papers](/cfp).
 
 &nbsp; 
 

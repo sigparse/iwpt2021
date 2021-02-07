@@ -9,7 +9,7 @@ permalink: /cfp
 ### IWPT 2021: The 17th International Conference on Parsing Technologies
 August 5 or 6, 2021, at ACL 2021
 
-<https://www.sigparse.org/iwpt2021>
+<https://iwpt21.sigparse.org/>
 
 &nbsp;
 
@@ -53,7 +53,7 @@ including but not limited to:
 Continuing the series of parsing-oriented shared tasks established at IWPT 2020, the 2021 IWPT Shared Task will be on Multilingual Parsing into Enhanced Universal Dependendies.
 
 Additional details about the IWPT 2021 shared task will be posted here:  
-<https://iwpt2021.sigparse.org/sharedtask>
+<https://universaldependencies.org/iwpt21/>
 
 
 ### IMPORTANT DATES

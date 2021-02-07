@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: IWPT 2021
-url: "https://www.sigparse.org"
-baseurl: "/iwpt2021"
+url: "https://iwpt21.sigparse.org"
+baseurl: ""
 description: >
   IWPT 2021: The 17th International Conference on Parsing Technologies
   
