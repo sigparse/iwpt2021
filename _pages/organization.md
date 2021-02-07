@@ -10,12 +10,12 @@ permalink: /organization
 
 ### Organizers
 
-- Stephan Oepen
-- Reut Tsarfaty
-- Anders Søgaard
-- Weiwei Sun
 - Yuji Matsumoto
+- Stephan Oepen
 - Kenji Sagae
+- Weiwei Sun
+- Anders Søgaard
+- Reut Tsarfaty
 
 ### Shared Task Organizers
 

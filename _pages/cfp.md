@@ -82,12 +82,12 @@ The page limits for submissions are: up to nine pages of content for regular pap
 
 ### ORGANIZERS
 
-- Stephan Oepen
-- Reut Tsarfaty
-- Anders Søgaard
-- Weiwei Sun
 - Yuji Matsumoto
+- Stephan Oepen
 - Kenji Sagae
+- Weiwei Sun
+- Anders Søgaard
+- Reut Tsarfaty
 
 ### SHARED TASK ORGANIZERS
 
