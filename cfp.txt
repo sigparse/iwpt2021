@@ -1,0 +1,121 @@
+[with apologies for cross-posting]
+
+The 17th International Conference on Parsing Technologies (IWPT 2021)
+August 5 or 6, 2021, co-located with ACL-IJCNLP.
+
+http://iwpt21.sigparse.org
+
+
+CALL FOR PAPERS
+
+The ACL Special Interest Group on Natural Language Parsing (SIGPARSE)
+invites paper submissions to its biennial conference on parsing
+technologies.  IWPT 2021 will be the 17th conference in a series that
+started in 1989.  The conference will be held as a co-located event
+with ACL-IJCNLP 2021, possibly in Bangkok, Thailand, or on-line.
+
+The paper submission deadline for IWPT 2021 is April 26, 2021.
+
+INVITED TALKS
+
++ Emily Pitler, Google AI
+
+IWPT 2021 SHARED TASK
+
+The IWPT 2021 Shared Task will be on Multilingual Parsing into Enhanced
+Universal Dependencies (EUD).  In recent years, Universal Dependencies
+(UD)—the de-facto standard target representations in surface-syntactic
+dependency parsing—have grown a second layer of structure, called
+enhanced dependencies, where grammatical relations that cannot be
+adequately represented in pure rooted trees are encoded, for example
+control relations and argument sharing in relative clauses, shared
+dependencies involving coordinate structures, and dependencies
+involving ellipsis.  Enhanced dependencies call for non-tree graphs
+with reentrancies, cycles, and empty nodes. 
+
+The IWPT 2021 Shared Task maintains its own schedule and submission
+rules.  For full details, please seee
+
+  https://universaldependencies.org/iwpt21/
+
+SUBMISSIONS
+
+Submit your paper through the following submission page:
+
+  https://www.softconf.com/acl2021/w23_IWPT/
+
+IWPT addresses all aspects of structural analysis of natural language,
+including but not limited to:
+
++ Parsing of natural language (phonological, morphological, syntactic,
+  semantic, discourse, etc.)
++ Formal models and algorithms for recognition, parsing and
+  transduction
++ Machine learning techniques for syntax and parsing
++ Complexity of languages, models and algorithms
++ Learning of recursive structure (linguistic/latent)
++ Parsing in machine translation (synchronous parsing; alignment by
+  parsing; translation by parsing, etc.)
++ Cognitive models of language processing
++ Multilingual and multimodal perspectives on syntax and parsing
++ Domain and genre adaptation, portability and robustness of parsing
+  systems
++ Practical applications of parsing technology
++ Parser evaluation (across languages and frameworks)
++ Neural Network Models for linguistic structure predictions
++ Combining distributional and symbolic signals for linguistic
+  structure prediction
++ Multilingual and Universal Parsing, Parsing typologically different
+  languages
++ Parsing low-resource languages and cross-lingual or domain transfer
++ Unblackboxing deep learning models to probe their level of linguistic
+  analysis
++ Integrating morphology via character-based models, subword
+  embeddings, and beyond
+
+Paper submissions can be made in two distinct tracks:
+
++ regular papers on substantial, original, and unpublished research,
+  including empirical evaluation results, where appropriate; and
++ short papers on smaller, focused contributions, work in progress,
+  negative results, or opinion pieces.
+
+Papers accepted for presentation at the conference will be included in
+the IWPT 2021 proceedings, which will be published by the ACL and
+included in the ACL Anthology.
+
+SCHEDULE
+
++ April 26, 2021: Paper submission deadline
++ May 28, 2021: Notification of acceptance
++ June 7, 2021: Camera-Ready versions due
++ August 5 or 6, 2021: One-day conference
+
+SUBMISSION FORMAT
+
+All submissions must follow the ACL 2021 guidelines.  Style templates
+for LaTeX and Microsoft Word are available at the following web site. 
+
+  https://2021.aclweb.org/downloads/acl-ijcnlp2021-templates.zip
+
+Submissions must be anonymous, i.e. not reveal author(s) on the title
+page or through self-references.  Papers must be submitted digitally,
+in PDF, and uploaded through the online conference system: 
+
+  https://www.softconf.com/acl2021/w23_IWPT/
+
+Paper submissions that violate either of these requirements will be
+returned without review.
+
+The page limits for submissions are: up to nine pages of content for
+regular papers, and up to four pages of content for short papers; any
+additional number of pages can be used for bibliographic references.
+
+ORGANIZERS
+
++ Yuji Matsumoto
++ Stephan Oepen
++ Kenji Sagae
++ Weiwei Sun
++ Anders Søgaard
++ Reut Tsarfaty
