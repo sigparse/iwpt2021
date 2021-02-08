@@ -3,7 +3,7 @@
 The 17th International Conference on Parsing Technologies (IWPT 2021)
 August 5 or 6, 2021, co-located with ACL-IJCNLP.
 
-http://iwpt21.sigparse.org
+https://iwpt21.sigparse.org
 
 
 CALL FOR PAPERS
