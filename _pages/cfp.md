@@ -89,7 +89,7 @@ The page limits for submissions are: up to nine pages of content for regular pap
 - Anders Søgaard
 - Reut Tsarfaty
 
-<organizers@sigparse.org>
+<officers@sigparse.org>
 
 ### SHARED TASK ORGANIZERS
 

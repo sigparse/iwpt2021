@@ -17,7 +17,7 @@ permalink: /organization
 - Anders Søgaard
 - Reut Tsarfaty
 
-<organizers@sigparse.org>
+<officers@sigparse.org>
 
 ### Shared Task Organizers
 
