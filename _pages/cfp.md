@@ -7,7 +7,7 @@ permalink: /cfp
 ---
 
 ### IWPT 2021: The 17th International Conference on Parsing Technologies
-August 5 or 6, 2021, at ACL 2021
+August 5 or 6, 2021, at ACL-IJCNLP 2021 (virtual)
 
 <https://iwpt21.sigparse.org/>
 
@@ -15,7 +15,7 @@ August 5 or 6, 2021, at ACL 2021
 
 ## CALL FOR PAPERS
 
-The ACL Special Interest Group on Natural Language Parsing (SIGPARSE) invites submissions to its biennial conference on parsing technologies. IWPT 2021 will be the 17th conference in a series that started in 1989. The conference will be held as a co-located ACL event on August 5 or 6, 2021.
+The ACL Special Interest Group on Natural Language Parsing (SIGPARSE) invites submissions to its biennial conference on parsing technologies. IWPT 2021 will be the 17th conference in a series that started in 1989. The conference will be held as a virtual event at ACL-IJCNLP 2021 on August 5 or 6, 2021.
 
 &nbsp;
 
