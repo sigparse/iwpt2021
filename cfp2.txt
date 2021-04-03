@@ -3,19 +3,17 @@ August 5 or 6, 2021, at ACL-IJCNLP 2021 (virtual)
 
 https://iwpt21.sigparse.org/
 
-
-CALL FOR PAPERS
+SECOND CALL FOR PAPERS
 
 The ACL Special Interest Group on Natural Language Parsing (SIGPARSE) invites submissions to its biennial conference on parsing technologies. IWPT 2021 will be the 17th conference in a series that started in 1989. The conference will be held as a virtual event at ACL-IJCNLP on August 5 or 6, 2021.
 
 IMPORTANT DATES
 
-+ Submission deadline: April 26, 2021 (anywhere on Earth)
++ Submission deadline (short and long papers): April 26, 2021 (anywhere on Earth)
 + Notification of acceptance: May 28, 2021
 + Camera-ready versions due: June 7, 2021
 + Conference: August 5 or 6, 2021
-
-
+ 
 INVITED SPEAKER
 
 + Emily Pitler, Google AI
@@ -44,7 +42,7 @@ IWPT addresses all aspects of structural analysis of natural language, including
 
 IWPT 2021 SHARED TASK
 
-Continuing the series of parsing-oriented shared tasks established at IWPT 2020, the 2021 IWPT Shared Task will be on Multilingual Parsing into Enhanced Universal Dependendies.
+Continuing the series of parsing-oriented shared tasks established at IWPT 2020, the 2021 IWPT Shared Task will be on Multilingual Parsing into Enhanced Universal Dependencies.
 
 Additional details about the IWPT 2021 shared can be found here:
 https://universaldependencies.org/iwpt21/
