@@ -58,8 +58,8 @@ Additional details about the IWPT 2021 shared can be found here:
 
 ### IMPORTANT DATES
 
-+ Submission deadline: April 26, 2021
-+ Notification of acceptance: May 28, 2021
++ Submission deadline (extended): May 5, 2021 (anywhere on Earth) 
++ Notification of acceptance: May 31, 2021
 + Camera-ready versions due: June 7, 2021
 + Conference: August 5 or 6, 2021
 
