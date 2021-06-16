@@ -44,7 +44,7 @@ Franck Dary and Alexis Nasr
 - **A Falta de Pan, Buenas Son Tortas: The Efficacy of Predicted UPOS Tags for Low Resource UD Parsing**<br>
 Mark Anderson, Mathieu Dehouck and Carlos Gómez-Rodríguez
 
-- **A Modest Pareto Optimisation Analysis of Dependency Parsers in 2021**
+- **A Modest Pareto Optimisation Analysis of Dependency Parsers in 2021**<br>
 Mark Anderson and Carlos Gómez-Rodríguez
 
 - **Levi Graph AMR Parser using Heterogeneous Attention**<br>
