@@ -19,7 +19,7 @@ Continuing the series of parsing-oriented shared tasks established at IWPT 2020,
 | **Submission deadline** | <span style="color:red">**May 5, 2021**</span> (extended) | 
 | Notification of acceptance: | May 31, 2021 |      
 | Camera-ready versions due: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | June 7, 2021 |
-| Conference: | August 6, 2021 |
+| Conference: | August 6, 2021, 13:00&ndash17:00 UTC |
 
 &nbsp; 
 
